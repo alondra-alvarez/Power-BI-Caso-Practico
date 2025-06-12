@@ -15,11 +15,20 @@ Los equipos de ventas y dirección comercial necesitan un dashboard interactivo 
    - Top 5  ventas por producto
       ![top five](https://github.com/user-attachments/assets/c5d01300-de0a-457a-8487-2e9545a38894)
 
-   - Comportamiento de ventas por año mes a mes  
-   - Ventas por pais  
-   - Comparativa de envios en tiempo y fuera de tiempo  
+   - Comportamiento de ventas por año mes a mes
+![Ventas por año](https://github.com/user-attachments/assets/2f420dc0-0417-43ee-a6a6-1c0944b84f8a)
+
+     
+   - Ventas por pais
+![Ventas por pais](https://github.com/user-attachments/assets/66ad95e9-9b91-430c-b1eb-f36d6a60798c)
+
+     
+   - Comparativa de envios en tiempo y fuera de tiempo
+![Envios en tiempo](https://github.com/user-attachments/assets/95245586-ecf0-41f1-98d9-edb833d500f7)
+
+     
 11. **CONVERTIR EL DASHBOARD EN DINAMICO:** Se agregaron filtros de paises y categorias de producto que se aplican a todps los visuales ,adicional a eso cada visual funciona como un filtro para los demas visuales y se agrego etiqueta por categoria al pasar el cursor por cada pasis en el mapa muestra el detalle de ventas dividido por categoria del producto
-12.   
+    
 ## CONCLUSIONES
 - Los envios muestran una buena tendencia a lo largo de los 3 años donde el año de 1997 fue el que obtuvo un menor procentage ***(93.42%)*** que demuestra excelentes resultados
 - Las ventas de este año 1998 comparada con los dos anteriores muestran bastante mejora durante los primeros meses del año a este punton se han vendido ***1.27 millones de pesos*** 
