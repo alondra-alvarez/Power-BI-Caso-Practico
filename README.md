@@ -12,19 +12,19 @@ Los equipos de ventas y dirección comercial necesitan un dashboard interactivo 
 4. **FORMATO Y DAX:** Agregar el froamto y tipo de datos adecuados a las columnas,general columnas calculadas para poyar el analisis  
 5. **CREACION DE VISUALES:** Generacion de tarjetas informativas para el dashboard con informacion resumida clave (ventas totales,Total de Clientes,Total de paises en los que tenemos presencia)  
 6. **CREACION DE VISUALES**  
-   - Top 5  ventas por producto
-      ![top five](https://github.com/user-attachments/assets/c5d01300-de0a-457a-8487-2e9545a38894)
+   - Top 5  ventas por producto  
+      ![top five](https://github.com/user-attachments/assets/c5d01300-de0a-457a-8487-2e9545a38894)  
 
-   - Comportamiento de ventas por año mes a mes
-![Ventas por año](https://github.com/user-attachments/assets/2f420dc0-0417-43ee-a6a6-1c0944b84f8a)
-
-     
-   - Ventas por pais
-![Ventas por pais](https://github.com/user-attachments/assets/66ad95e9-9b91-430c-b1eb-f36d6a60798c)
+   - Comportamiento de ventas por año mes a mes 
+![Ventas por año](https://github.com/user-attachments/assets/2f420dc0-0417-43ee-a6a6-1c0944b84f8a)  
 
      
-   - Comparativa de envios en tiempo y fuera de tiempo
-![Envios en tiempo](https://github.com/user-attachments/assets/95245586-ecf0-41f1-98d9-edb833d500f7)
+   - Ventas por pais  
+![Ventas por pais](https://github.com/user-attachments/assets/66ad95e9-9b91-430c-b1eb-f36d6a60798c)  
+
+     
+   - Comparativa de envios en tiempo y fuera de tiempo  
+![Envios en tiempo](https://github.com/user-attachments/assets/95245586-ecf0-41f1-98d9-edb833d500f7)  
 
      
 11. **CONVERTIR EL DASHBOARD EN DINAMICO:** Se agregaron filtros de paises y categorias de producto que se aplican a todps los visuales ,adicional a eso cada visual funciona como un filtro para los demas visuales y se agrego etiqueta por categoria al pasar el cursor por cada pasis en el mapa muestra el detalle de ventas dividido por categoria del producto
