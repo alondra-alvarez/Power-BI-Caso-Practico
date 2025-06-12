@@ -9,13 +9,13 @@ Los equipos de ventas y dirección comercial necesitan un dashboard interactivo 
 1. **CONEXION DE DATOS:** Conectar la fuente de datos OData a power BI seleccionando de ella las tablas utiles para el analisis ***(categories,products,order_details,orders,employess,customers)*** 
    **TRANSFORMACION DE DATOS:** Normalizacion y transformacion de datos mediante power query  
 3. **MODELADO DE DATOS:** Confirmar la relacion entee tablas  
-4. **FORMATO Y DAX:** Agregar el froamto y tipo de datos adecuados a las columnas,general columnas calculadas para poyar el analisis  
-5. **CREACION DE VISUALES:** Generacion de tarjetas informativas para el dashboard con informacion resumida clave (ventas totales,Total de Clientes,Total de paises en los que tenemos presencia)  
+4. **FORMATO Y DAX:** Agregar el formato y tipo de datos adecuados a las columnas,general columnas calculadas para poyar el analisis  
+5. **CREACION DE VISUALES:** Generacion de tarjetas informativas para el dashboard con informacion resumida clave ***(ventas totales,Total de Clientes,Total de paises en los que tenemos presencia)***  
 6. **CREACION DE VISUALES**  
    - Top 5  ventas por producto  
       ![top five](https://github.com/user-attachments/assets/c5d01300-de0a-457a-8487-2e9545a38894)  
 
-   - Comportamiento de ventas por año mes a mes 
+   - Comportamiento de ventas por año mes a mes  
 ![Ventas por año](https://github.com/user-attachments/assets/2f420dc0-0417-43ee-a6a6-1c0944b84f8a)  
 
      
